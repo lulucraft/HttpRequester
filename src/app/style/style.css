@@ -1,0 +1,21 @@
+.navbar {
+	-fx-background-color: white;
+}
+
+ComboBox {
+	-fx-background-color: #efefef;
+	-fx-padding: 2px;
+}
+
+Button {
+	-fx-background-color: #efefef;
+	-fx-padding: 8px;
+}
+
+Button:hover {
+	-fx-background-color: #efefef94;	
+}
+
+TextField {
+	-fx-background-color: #f2f2f2;
+}
